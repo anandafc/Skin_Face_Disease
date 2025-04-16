@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 19 07:15:29 2021
 
-@author: sas11
-"""
 from tensorflow import keras
 import tensorflow as tf # Imports tensorflow
 
